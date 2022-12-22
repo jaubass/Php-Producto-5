@@ -1,0 +1,1095 @@
+{
+    "manifest_version": "1.0.9",
+    "title": "Music Lessons Teacher",
+    "page_builder": "elementor",
+    "kit_version": "2.0.1",
+    "templates": [
+        {
+            "name": "Home 1",
+            "screenshot": "screenshots\/home-1.jpg",
+            "source": "templates\/home-1-cb7c9559203f4936baba03d8729f1925.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 2 (Pro)",
+            "screenshot": "screenshots\/home-2-pro-.jpg",
+            "source": "templates\/home-2-pro-b81e1237bef513239243e41b2ea9405e.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home 3",
+            "screenshot": "screenshots\/home-3.jpg",
+            "source": "templates\/home-3-f59fd0f0db049c9ede61b394afe27d23.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 4 (Pro)",
+            "screenshot": "screenshots\/home-4-pro-.jpg",
+            "source": "templates\/home-4-pro-0b44a8e4c2bc673f48ab9b532dbb1336.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About 1",
+            "screenshot": "screenshots\/about-1.jpg",
+            "source": "templates\/about-1-e1a24b84061491eed6dc4ec2d38a445d.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About 2 (Pro)",
+            "screenshot": "screenshots\/about-2-pro-.jpg",
+            "source": "templates\/about-2-pro-33aca7f7925b689ed7115dfbda0f80f5.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Courses 1",
+            "screenshot": "screenshots\/courses-1.jpg",
+            "source": "templates\/courses-1-3d7aa171e6fc30f3ab553db4584a67d4.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Courses 2 (Pro)",
+            "screenshot": "screenshots\/courses-2-pro-.jpg",
+            "source": "templates\/courses-2-pro-e0ea64bbdbdaed46f94a0589f46337e8.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Video Lessons",
+            "screenshot": "screenshots\/video-lessons.jpg",
+            "source": "templates\/video-lessons-39b60c2001c08ae57898ba11be2dfa9e.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing-c54d3f849a7f9c6721d64b4c08a163c9.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Testimonials",
+            "screenshot": "screenshots\/testimonials.jpg",
+            "source": "templates\/testimonials-c3e0a5577be2e553829b5247e70ac7fb.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq-c7fbc9f48b96f7222a5718c61d325cc5.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact 1",
+            "screenshot": "screenshots\/contact-1.jpg",
+            "source": "templates\/contact-1-183bba3f76e5af3a6796f322da5b6a6f.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact 2 (Pro)",
+            "screenshot": "screenshots\/contact-2-pro-.jpg",
+            "source": "templates\/contact-2-pro-9fa96a5685ee7e7c3800aac33bdc9f83.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Coming Soon",
+            "screenshot": "screenshots\/coming-soon.jpg",
+            "source": "templates\/coming-soon-81ef6ca2fea6caf569c7024b23e8cc41.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "2.9.6",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "required_css": [],
+    "images": [
+        {
+            "filename": "photo-1543060749-aa3f115aad09-scaled-e1576088861662.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/211\/2019\/12\/photo-1543060749-aa3f115aad09-scaled-e1576088861662-500x429.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-cb7c9559203f4936baba03d8729f1925.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-pro-b81e1237bef513239243e41b2ea9405e.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/home-4-pro-0b44a8e4c2bc673f48ab9b532dbb1336.json",
+                    "name": "Home 4 (Pro)"
+                },
+                {
+                    "source": "templates\/about-2-pro-33aca7f7925b689ed7115dfbda0f80f5.json",
+                    "name": "About 2 (Pro)"
+                },
+                {
+                    "source": "templates\/courses-1-3d7aa171e6fc30f3ab553db4584a67d4.json",
+                    "name": "Courses 1"
+                },
+                {
+                    "source": "templates\/courses-2-pro-e0ea64bbdbdaed46f94a0589f46337e8.json",
+                    "name": "Courses 2 (Pro)"
+                },
+                {
+                    "source": "templates\/video-lessons-39b60c2001c08ae57898ba11be2dfa9e.json",
+                    "name": "Video Lessons"
+                },
+                {
+                    "source": "templates\/pricing-c54d3f849a7f9c6721d64b4c08a163c9.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/testimonials-c3e0a5577be2e553829b5247e70ac7fb.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 264162,
+            "dimensions": [
+                1707,
+                1465
+            ]
+        },
+        {
+            "filename": "dots01-1.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/211\/2019\/12\/dots01-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-cb7c9559203f4936baba03d8729f1925.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-pro-b81e1237bef513239243e41b2ea9405e.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/home-3-f59fd0f0db049c9ede61b394afe27d23.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-pro-0b44a8e4c2bc673f48ab9b532dbb1336.json",
+                    "name": "Home 4 (Pro)"
+                },
+                {
+                    "source": "templates\/about-2-pro-33aca7f7925b689ed7115dfbda0f80f5.json",
+                    "name": "About 2 (Pro)"
+                }
+            ],
+            "filesize": 2578,
+            "dimensions": [
+                404,
+                206
+            ]
+        },
+        {
+            "filename": "signature-light-1.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/211\/2019\/12\/signature-light-1-500x183.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-cb7c9559203f4936baba03d8729f1925.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-pro-b81e1237bef513239243e41b2ea9405e.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/home-3-f59fd0f0db049c9ede61b394afe27d23.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-pro-0b44a8e4c2bc673f48ab9b532dbb1336.json",
+                    "name": "Home 4 (Pro)"
+                },
+                {
+                    "source": "templates\/about-1-e1a24b84061491eed6dc4ec2d38a445d.json",
+                    "name": "About 1"
+                },
+                {
+                    "source": "templates\/about-2-pro-33aca7f7925b689ed7115dfbda0f80f5.json",
+                    "name": "About 2 (Pro)"
+                },
+                {
+                    "source": "templates\/courses-1-3d7aa171e6fc30f3ab553db4584a67d4.json",
+                    "name": "Courses 1"
+                },
+                {
+                    "source": "templates\/courses-2-pro-e0ea64bbdbdaed46f94a0589f46337e8.json",
+                    "name": "Courses 2 (Pro)"
+                },
+                {
+                    "source": "templates\/video-lessons-39b60c2001c08ae57898ba11be2dfa9e.json",
+                    "name": "Video Lessons"
+                }
+            ],
+            "filesize": 32923,
+            "dimensions": [
+                800,
+                292
+            ]
+        },
+        {
+            "filename": "play-button-light.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/211\/2019\/12\/play-button-light.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-cb7c9559203f4936baba03d8729f1925.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-pro-b81e1237bef513239243e41b2ea9405e.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/home-3-f59fd0f0db049c9ede61b394afe27d23.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/about-1-e1a24b84061491eed6dc4ec2d38a445d.json",
+                    "name": "About 1"
+                },
+                {
+                    "source": "templates\/about-2-pro-33aca7f7925b689ed7115dfbda0f80f5.json",
+                    "name": "About 2 (Pro)"
+                },
+                {
+                    "source": "templates\/video-lessons-39b60c2001c08ae57898ba11be2dfa9e.json",
+                    "name": "Video Lessons"
+                }
+            ],
+            "filesize": 7935,
+            "dimensions": [
+                300,
+                300
+            ]
+        },
+        {
+            "filename": "quote-light.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/211\/2019\/12\/quote-light-500x500.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-cb7c9559203f4936baba03d8729f1925.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-pro-b81e1237bef513239243e41b2ea9405e.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/home-3-f59fd0f0db049c9ede61b394afe27d23.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/about-1-e1a24b84061491eed6dc4ec2d38a445d.json",
+                    "name": "About 1"
+                },
+                {
+                    "source": "templates\/about-2-pro-33aca7f7925b689ed7115dfbda0f80f5.json",
+                    "name": "About 2 (Pro)"
+                },
+                {
+                    "source": "templates\/courses-2-pro-e0ea64bbdbdaed46f94a0589f46337e8.json",
+                    "name": "Courses 2 (Pro)"
+                },
+                {
+                    "source": "templates\/testimonials-c3e0a5577be2e553829b5247e70ac7fb.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 18322,
+            "dimensions": [
+                512,
+                512
+            ]
+        },
+        {
+            "filename": "photo-1486334803289-1623f249dd1e-e1576088464535.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/211\/2019\/12\/photo-1486334803289-1623f249dd1e-500x313.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-cb7c9559203f4936baba03d8729f1925.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-4-pro-0b44a8e4c2bc673f48ab9b532dbb1336.json",
+                    "name": "Home 4 (Pro)"
+                },
+                {
+                    "source": "templates\/about-1-e1a24b84061491eed6dc4ec2d38a445d.json",
+                    "name": "About 1"
+                },
+                {
+                    "source": "templates\/about-2-pro-33aca7f7925b689ed7115dfbda0f80f5.json",
+                    "name": "About 2 (Pro)"
+                },
+                {
+                    "source": "templates\/pricing-c54d3f849a7f9c6721d64b4c08a163c9.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 422999,
+            "dimensions": [
+                1920,
+                1203
+            ]
+        },
+        {
+            "filename": "me01-1.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/211\/2019\/12\/me01-1-500x574.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-cb7c9559203f4936baba03d8729f1925.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-pro-b81e1237bef513239243e41b2ea9405e.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/home-3-f59fd0f0db049c9ede61b394afe27d23.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-pro-0b44a8e4c2bc673f48ab9b532dbb1336.json",
+                    "name": "Home 4 (Pro)"
+                },
+                {
+                    "source": "templates\/courses-1-3d7aa171e6fc30f3ab553db4584a67d4.json",
+                    "name": "Courses 1"
+                },
+                {
+                    "source": "templates\/pricing-c54d3f849a7f9c6721d64b4c08a163c9.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/testimonials-c3e0a5577be2e553829b5247e70ac7fb.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 260532,
+            "dimensions": [
+                768,
+                882
+            ]
+        },
+        {
+            "filename": "photo-1525189885004-3dfbe3dd3a13-683x1024.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/211\/2019\/12\/photo-1525189885004-3dfbe3dd3a13-683x1024-500x750.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-cb7c9559203f4936baba03d8729f1925.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-pro-b81e1237bef513239243e41b2ea9405e.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/home-3-f59fd0f0db049c9ede61b394afe27d23.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-pro-0b44a8e4c2bc673f48ab9b532dbb1336.json",
+                    "name": "Home 4 (Pro)"
+                },
+                {
+                    "source": "templates\/courses-1-3d7aa171e6fc30f3ab553db4584a67d4.json",
+                    "name": "Courses 1"
+                },
+                {
+                    "source": "templates\/pricing-c54d3f849a7f9c6721d64b4c08a163c9.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/testimonials-c3e0a5577be2e553829b5247e70ac7fb.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 55626,
+            "dimensions": [
+                683,
+                1024
+            ]
+        },
+        {
+            "filename": "matthew-hamilton-166549-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/211\/2019\/12\/matthew-hamilton-166549-unsplash-500x500.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-cb7c9559203f4936baba03d8729f1925.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/pricing-c54d3f849a7f9c6721d64b4c08a163c9.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/testimonials-c3e0a5577be2e553829b5247e70ac7fb.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 277775,
+            "dimensions": [
+                1200,
+                1200
+            ]
+        },
+        {
+            "filename": "photo-1550590774-adc439e48ac6-scaled-e1576088898928.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/211\/2019\/12\/photo-1550590774-adc439e48ac6-scaled-e1576088898928-500x425.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-cb7c9559203f4936baba03d8729f1925.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/contact-1-183bba3f76e5af3a6796f322da5b6a6f.json",
+                    "name": "Contact 1"
+                }
+            ],
+            "filesize": 146672,
+            "dimensions": [
+                1707,
+                1452
+            ]
+        },
+        {
+            "filename": "client-light-02.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/211\/2019\/12\/client-light-02-500x333.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-cb7c9559203f4936baba03d8729f1925.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-pro-b81e1237bef513239243e41b2ea9405e.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/home-4-pro-0b44a8e4c2bc673f48ab9b532dbb1336.json",
+                    "name": "Home 4 (Pro)"
+                },
+                {
+                    "source": "templates\/about-1-e1a24b84061491eed6dc4ec2d38a445d.json",
+                    "name": "About 1"
+                },
+                {
+                    "source": "templates\/about-2-pro-33aca7f7925b689ed7115dfbda0f80f5.json",
+                    "name": "About 2 (Pro)"
+                },
+                {
+                    "source": "templates\/courses-1-3d7aa171e6fc30f3ab553db4584a67d4.json",
+                    "name": "Courses 1"
+                }
+            ],
+            "filesize": 7647,
+            "dimensions": [
+                630,
+                420
+            ]
+        },
+        {
+            "filename": "client05.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/211\/2019\/12\/client05-500x333.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-cb7c9559203f4936baba03d8729f1925.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-pro-b81e1237bef513239243e41b2ea9405e.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/home-3-f59fd0f0db049c9ede61b394afe27d23.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-pro-0b44a8e4c2bc673f48ab9b532dbb1336.json",
+                    "name": "Home 4 (Pro)"
+                },
+                {
+                    "source": "templates\/about-1-e1a24b84061491eed6dc4ec2d38a445d.json",
+                    "name": "About 1"
+                },
+                {
+                    "source": "templates\/about-2-pro-33aca7f7925b689ed7115dfbda0f80f5.json",
+                    "name": "About 2 (Pro)"
+                },
+                {
+                    "source": "templates\/courses-1-3d7aa171e6fc30f3ab553db4584a67d4.json",
+                    "name": "Courses 1"
+                },
+                {
+                    "source": "templates\/pricing-c54d3f849a7f9c6721d64b4c08a163c9.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/testimonials-c3e0a5577be2e553829b5247e70ac7fb.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 18170,
+            "dimensions": [
+                1024,
+                682
+            ]
+        },
+        {
+            "filename": "client-light-01.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/211\/2019\/12\/client-light-01-500x333.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-cb7c9559203f4936baba03d8729f1925.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-pro-b81e1237bef513239243e41b2ea9405e.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/home-3-f59fd0f0db049c9ede61b394afe27d23.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-pro-0b44a8e4c2bc673f48ab9b532dbb1336.json",
+                    "name": "Home 4 (Pro)"
+                },
+                {
+                    "source": "templates\/about-1-e1a24b84061491eed6dc4ec2d38a445d.json",
+                    "name": "About 1"
+                },
+                {
+                    "source": "templates\/about-2-pro-33aca7f7925b689ed7115dfbda0f80f5.json",
+                    "name": "About 2 (Pro)"
+                },
+                {
+                    "source": "templates\/courses-1-3d7aa171e6fc30f3ab553db4584a67d4.json",
+                    "name": "Courses 1"
+                },
+                {
+                    "source": "templates\/pricing-c54d3f849a7f9c6721d64b4c08a163c9.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/testimonials-c3e0a5577be2e553829b5247e70ac7fb.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 7003,
+            "dimensions": [
+                630,
+                420
+            ]
+        },
+        {
+            "filename": "client-light-03.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/211\/2019\/12\/client-light-03-500x333.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-cb7c9559203f4936baba03d8729f1925.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-pro-b81e1237bef513239243e41b2ea9405e.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/home-3-f59fd0f0db049c9ede61b394afe27d23.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/about-1-e1a24b84061491eed6dc4ec2d38a445d.json",
+                    "name": "About 1"
+                },
+                {
+                    "source": "templates\/about-2-pro-33aca7f7925b689ed7115dfbda0f80f5.json",
+                    "name": "About 2 (Pro)"
+                },
+                {
+                    "source": "templates\/courses-1-3d7aa171e6fc30f3ab553db4584a67d4.json",
+                    "name": "Courses 1"
+                },
+                {
+                    "source": "templates\/pricing-c54d3f849a7f9c6721d64b4c08a163c9.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/testimonials-c3e0a5577be2e553829b5247e70ac7fb.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 5746,
+            "dimensions": [
+                630,
+                420
+            ]
+        },
+        {
+            "filename": "client-light-066.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/211\/2019\/12\/client-light-066-500x333.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-cb7c9559203f4936baba03d8729f1925.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-pro-b81e1237bef513239243e41b2ea9405e.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/home-3-f59fd0f0db049c9ede61b394afe27d23.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-pro-0b44a8e4c2bc673f48ab9b532dbb1336.json",
+                    "name": "Home 4 (Pro)"
+                },
+                {
+                    "source": "templates\/about-1-e1a24b84061491eed6dc4ec2d38a445d.json",
+                    "name": "About 1"
+                },
+                {
+                    "source": "templates\/about-2-pro-33aca7f7925b689ed7115dfbda0f80f5.json",
+                    "name": "About 2 (Pro)"
+                },
+                {
+                    "source": "templates\/courses-1-3d7aa171e6fc30f3ab553db4584a67d4.json",
+                    "name": "Courses 1"
+                },
+                {
+                    "source": "templates\/pricing-c54d3f849a7f9c6721d64b4c08a163c9.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/testimonials-c3e0a5577be2e553829b5247e70ac7fb.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 8650,
+            "dimensions": [
+                630,
+                420
+            ]
+        },
+        {
+            "filename": "close-up-of-guitar-258288.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/211\/2019\/12\/close-up-of-guitar-258288-500x325.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-pro-b81e1237bef513239243e41b2ea9405e.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/courses-1-3d7aa171e6fc30f3ab553db4584a67d4.json",
+                    "name": "Courses 1"
+                },
+                {
+                    "source": "templates\/coming-soon-81ef6ca2fea6caf569c7024b23e8cc41.json",
+                    "name": "Coming Soon"
+                }
+            ],
+            "filesize": 249414,
+            "dimensions": [
+                1920,
+                1249
+            ]
+        },
+        {
+            "filename": "man-and-woman-playing-guitar-1164763.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/211\/2019\/12\/man-and-woman-playing-guitar-1164763-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-pro-b81e1237bef513239243e41b2ea9405e.json",
+                    "name": "Home 2 (Pro)"
+                },
+                {
+                    "source": "templates\/home-3-f59fd0f0db049c9ede61b394afe27d23.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/courses-1-3d7aa171e6fc30f3ab553db4584a67d4.json",
+                    "name": "Courses 1"
+                },
+                {
+                    "source": "templates\/video-lessons-39b60c2001c08ae57898ba11be2dfa9e.json",
+                    "name": "Video Lessons"
+                },
+                {
+                    "source": "templates\/faq-c7fbc9f48b96f7222a5718c61d325cc5.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 395129,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "man-in-black-and-white-pinstripe-formal-coat-and-pants-167473.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/211\/2019\/12\/man-in-black-and-white-pinstripe-formal-coat-and-pants-167473-500x755.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3-f59fd0f0db049c9ede61b394afe27d23.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-pro-0b44a8e4c2bc673f48ab9b532dbb1336.json",
+                    "name": "Home 4 (Pro)"
+                },
+                {
+                    "source": "templates\/about-1-e1a24b84061491eed6dc4ec2d38a445d.json",
+                    "name": "About 1"
+                },
+                {
+                    "source": "templates\/about-2-pro-33aca7f7925b689ed7115dfbda0f80f5.json",
+                    "name": "About 2 (Pro)"
+                },
+                {
+                    "source": "templates\/video-lessons-39b60c2001c08ae57898ba11be2dfa9e.json",
+                    "name": "Video Lessons"
+                }
+            ],
+            "filesize": 294592,
+            "dimensions": [
+                1280,
+                1932
+            ]
+        },
+        {
+            "filename": "man-playing-guitar-1918160.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/211\/2019\/12\/man-playing-guitar-1918160-500x750.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3-f59fd0f0db049c9ede61b394afe27d23.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/about-1-e1a24b84061491eed6dc4ec2d38a445d.json",
+                    "name": "About 1"
+                }
+            ],
+            "filesize": 475034,
+            "dimensions": [
+                1280,
+                1920
+            ]
+        },
+        {
+            "filename": "photo-1551740132-1d0c02b8275e-scaled-e1576089001365.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/211\/2019\/12\/photo-1551740132-1d0c02b8275e-scaled-e1576089001365-500x444.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-3-f59fd0f0db049c9ede61b394afe27d23.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-pro-0b44a8e4c2bc673f48ab9b532dbb1336.json",
+                    "name": "Home 4 (Pro)"
+                },
+                {
+                    "source": "templates\/about-2-pro-33aca7f7925b689ed7115dfbda0f80f5.json",
+                    "name": "About 2 (Pro)"
+                },
+                {
+                    "source": "templates\/testimonials-c3e0a5577be2e553829b5247e70ac7fb.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 313327,
+            "dimensions": [
+                1707,
+                1516
+            ]
+        },
+        {
+            "filename": "client-light-004.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/211\/2019\/12\/client-light-004-500x333.png",
+            "templates": [
+                {
+                    "source": "templates\/home-3-f59fd0f0db049c9ede61b394afe27d23.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-pro-0b44a8e4c2bc673f48ab9b532dbb1336.json",
+                    "name": "Home 4 (Pro)"
+                },
+                {
+                    "source": "templates\/pricing-c54d3f849a7f9c6721d64b4c08a163c9.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/testimonials-c3e0a5577be2e553829b5247e70ac7fb.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 7824,
+            "dimensions": [
+                630,
+                420
+            ]
+        },
+        {
+            "filename": "photo-1513092186897-683e31a91216-e1576088707444.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/211\/2019\/12\/photo-1513092186897-683e31a91216-500x333.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-4-pro-0b44a8e4c2bc673f48ab9b532dbb1336.json",
+                    "name": "Home 4 (Pro)"
+                },
+                {
+                    "source": "templates\/courses-1-3d7aa171e6fc30f3ab553db4584a67d4.json",
+                    "name": "Courses 1"
+                },
+                {
+                    "source": "templates\/courses-2-pro-e0ea64bbdbdaed46f94a0589f46337e8.json",
+                    "name": "Courses 2 (Pro)"
+                },
+                {
+                    "source": "templates\/video-lessons-39b60c2001c08ae57898ba11be2dfa9e.json",
+                    "name": "Video Lessons"
+                },
+                {
+                    "source": "templates\/contact-2-pro-9fa96a5685ee7e7c3800aac33bdc9f83.json",
+                    "name": "Contact 2 (Pro)"
+                }
+            ],
+            "filesize": 107220,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "photo-of-acoustic-guitar-1942035.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/211\/2019\/12\/photo-of-acoustic-guitar-1942035-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-4-pro-0b44a8e4c2bc673f48ab9b532dbb1336.json",
+                    "name": "Home 4 (Pro)"
+                },
+                {
+                    "source": "templates\/about-2-pro-33aca7f7925b689ed7115dfbda0f80f5.json",
+                    "name": "About 2 (Pro)"
+                }
+            ],
+            "filesize": 215076,
+            "dimensions": [
+                1280,
+                853
+            ]
+        },
+        {
+            "filename": "photo-1519345182560-3f2917c472ef-683x1024.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/211\/2019\/12\/photo-1519345182560-3f2917c472ef-683x1024-500x750.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-4-pro-0b44a8e4c2bc673f48ab9b532dbb1336.json",
+                    "name": "Home 4 (Pro)"
+                },
+                {
+                    "source": "templates\/courses-1-3d7aa171e6fc30f3ab553db4584a67d4.json",
+                    "name": "Courses 1"
+                },
+                {
+                    "source": "templates\/testimonials-c3e0a5577be2e553829b5247e70ac7fb.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 129882,
+            "dimensions": [
+                683,
+                1024
+            ]
+        },
+        {
+            "filename": "person-holding-banjo-1942037.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/211\/2019\/12\/person-holding-banjo-1942037-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/video-lessons-39b60c2001c08ae57898ba11be2dfa9e.json",
+                    "name": "Video Lessons"
+                }
+            ],
+            "filesize": 350522,
+            "dimensions": [
+                1920,
+                1279
+            ]
+        },
+        {
+            "filename": "photo-1550291652-6ea9114a47b1-scaled-e1576089220500.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/211\/2019\/12\/photo-1550291652-6ea9114a47b1-scaled-e1576089220500-500x411.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/video-lessons-39b60c2001c08ae57898ba11be2dfa9e.json",
+                    "name": "Video Lessons"
+                }
+            ],
+            "filesize": 169995,
+            "dimensions": [
+                1707,
+                1404
+            ]
+        },
+        {
+            "filename": "photo-1547586717-7ac67acce008-scaled-e1576088675572.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/211\/2019\/12\/photo-1547586717-7ac67acce008-scaled-e1576088675572-500x424.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/video-lessons-39b60c2001c08ae57898ba11be2dfa9e.json",
+                    "name": "Video Lessons"
+                }
+            ],
+            "filesize": 166130,
+            "dimensions": [
+                1689,
+                1433
+            ]
+        },
+        {
+            "filename": "photo-1510678960173-b52e15cbcfb4-1024x683.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/211\/2019\/12\/photo-1510678960173-b52e15cbcfb4-1024x683-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials-c3e0a5577be2e553829b5247e70ac7fb.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 56884,
+            "dimensions": [
+                1024,
+                683
+            ]
+        },
+        {
+            "filename": "photo-1523303821445-f2983744a23e-1024x683.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/211\/2019\/12\/photo-1523303821445-f2983744a23e-1024x683-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials-c3e0a5577be2e553829b5247e70ac7fb.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 79208,
+            "dimensions": [
+                1024,
+                683
+            ]
+        },
+        {
+            "filename": "photo-1520167112707-56e25f2d7d6e-scaled-e1576088935244.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/211\/2019\/12\/photo-1520167112707-56e25f2d7d6e-scaled-e1576088935244-500x438.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/contact-1-183bba3f76e5af3a6796f322da5b6a6f.json",
+                    "name": "Contact 1"
+                }
+            ],
+            "filesize": 315005,
+            "dimensions": [
+                1707,
+                1497
+            ]
+        }
+    ]
+}
