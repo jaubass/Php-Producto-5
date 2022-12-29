@@ -15,7 +15,7 @@ p {
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
     line-height: 1.4;
-    color: #fff;
+    color: #000000;
 }
 h1 {
     font-size: 36px;
@@ -47,7 +47,7 @@ h5 {
     font-size: 14px;
     font-family: 'Poppins', sans-serif;
     font-weight: 900;
-    text-transform: uppercase;
+
 
 }
 
@@ -55,7 +55,7 @@ h6 {
     font-size: 12px;
     font-family: 'Poppins', sans-serif;
     font-weight: 900;
-    text-transform: uppercase;
+
 
 }
 
@@ -70,5 +70,70 @@ h6 {
 }
 
 .body {
-    background-color: #ffc801;
+    background-color: #fff;
     }
+
+/** ELEMENTOR **/
+
+
+.elementor-11 .elementor-element.elementor-element-a699556 .elementor-button {
+font-family: "Poppins", Sans-serif;
+font-size: 1rem;
+font-weight: 700;
+text-transform: uppercase;
+font-style: normal;
+text-decoration: none;
+fill: #ffffff;
+color: #ffffff;
+background-color: #ad6e45;
+border-style: solid;
+border-width: 2px 2px 2px 2px;
+border-color: #ad6e45;
+border-radius: 0px 0px 0px 0px;
+padding: 17px 45px 17px 45px;
+}
+
+/** QUIENES SOMOS **/
+
+
+.cite {
+    margin-top: 120px;
+    padding: 60px;
+    font-family: "Poppins", Sans-serif;
+    font-size: 2rem;
+    font-weight: 100;
+    font-style: normal;
+    text-decoration: none;
+    color: #000000;
+    padding: 17px 45px 17px 45px;
+}
+
+.citelogo {
+    margin-bottom: 120px;
+    font-family: "Poppins", Sans-serif;
+    font-size: 1rem;
+    font-weight: 200;
+    font-style: normal;
+    text-decoration: none;
+    color: #000000;
+    padding: 17px 45px 17px 45px;
+}
+
+.ceocite {
+    font-family: "Poppins", Sans-serif;
+    font-size: 36px;
+    font-weight: 200;
+    font-style: normal;
+    text-decoration: none;
+    color: #000000;
+}
+
+/** BLOG **/
+
+.single-post .wp-post-image {
+    display: none;
+}
+
+.hitlepost {
+    padding: 6px 48px 6px 48px;
+}
